@@ -6,3 +6,4 @@ xhofe/alist：最新
 --platform=linux/arm64 xiaoyaliu/alist
 mysql
 redis:latest
+nacos
